@@ -25,6 +25,6 @@ A deep learning project to recognize German traffic signs using Convolutional Ne
 - **F1-Score**: 92%
 
 ## 📌 How to Run
-Run the `traffice-sign-detection.ipynb` file in:
+Run the `traffice-sign-detection-cnn.ipynb` file in:
 - Jupyter Notebook locally
 - [Kaggle Notebook](https://kaggle.com)
